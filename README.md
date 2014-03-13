@@ -1,4 +1,8 @@
-vbox_builder
-============
+VBOX_BUILDER
 
-Création et modification automatique d'une VM VirtualBox
+Ce script permet de créer des machines virtuelles VirtualBox.
+
+Il est possible de :
+
+	- Créer une VM avec une configuration par défaut
+	- Créer une VM avec une configuration manuelle 
